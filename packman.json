@@ -1,0 +1,7 @@
+{
+  "name": "KvantStream",
+  "export": "Assets",
+  "dependencies": [
+	  "kennelbound-unity/KvantReaktion"
+  ]
+}
